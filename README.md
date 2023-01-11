@@ -8,11 +8,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=liubinyoung" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liubinyoung&layout=compact" />
+
 我是菜鸡9999号，请指教！
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liubinyoung)](https://github.com/anuraghazra/github-readme-stats)
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=liubinyoung" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=liubinyoung" />
 
 
 
