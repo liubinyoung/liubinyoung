@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+我是菜鸡9999号，请指教！
 <!--
 **liubinyoung/liubinyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
